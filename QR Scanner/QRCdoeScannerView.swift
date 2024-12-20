@@ -2,7 +2,7 @@ import SwiftUI
 import CoreImage
 
 struct QRCodeScannerView: View {
-    @State private var decodedMessage: String = "QR 코드를 스캔하세요"
+    @State private var decodedMessage: String = "QR 코드를 스캔하세요" // test
     
     var body: some View {
         VStack {

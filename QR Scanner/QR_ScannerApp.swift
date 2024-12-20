@@ -2,7 +2,7 @@
 //  QR_ScannerApp.swift
 //  QR Scanner
 //
-//  Created by 구리뽕 on 12/19/24.
+//  Created by 구리뽕 on 12/20/24.
 //
 
 import SwiftUI

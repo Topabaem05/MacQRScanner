@@ -5,6 +5,7 @@
 //  Created by 구리뽕 on 12/20/24.
 //
 
+import Quartz
 import SwiftUI
 
 @main

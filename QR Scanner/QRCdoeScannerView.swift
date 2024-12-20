@@ -15,7 +15,6 @@ struct QRCodeScannerView: View {
             }
             .padding()
             .background(Color.blue)
-            .foregroundColor(.white)
             .cornerRadius(8)
         }
         .padding()

@@ -1,7 +1,6 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var detectedQRCodes: [
     var body: some View {
         VStack {
             // QR 코드 스캐너 뷰1
